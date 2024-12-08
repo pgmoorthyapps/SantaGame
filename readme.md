@@ -15,6 +15,7 @@ assigning secret children to employees based on the provided employee informatio
 1.  Place `Employee-List.xlsx` and `Secret-Santa-Game-Result-2023.xlsx` in the root directory.
 2.  Set Up VS Code to Run the Program
     Add the following configuration to .vscode/launch.json (create the file if it doesn’t exist):
+    ```json
     {
         "version": "0.2.0",
         "configurations": [
